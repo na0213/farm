@@ -1,3 +1,29 @@
+## Farm
+
+## 紹介と使い方
+
+  - 畜産農家さんの紹介（卒制に向けて）
+
+## 工夫した点
+
+  - laravelを導入した
+  - Three.js,panolens.jsを用いてパノラマビューを実装した
+
+## 苦戦した点
+
+  - ログイン、画面遷移を作り込みたかったが、パノラマにかなりの時間がかかってしまった。
+    Three.js,panolens.jsがReact向けのものが多く、参考サイトがなかなかなく苦戦した
+    
+  - せっかくできたのでスマホでも動くか確認したいので、早い段階でデプロイして確認する
+
+## 参考にした web サイトなど
+
+  - Panolens公式：https://pchen66.github.io/Panolens/#Home
+  - Panolens使い方１：https://yutokun.com/knowledges/panolens-test/index.html
+  - Panolens使い方２：https://nehori.com/nikki/2021/05/17/post-30123/
+  - Panolens.js読み込み：https://github.com/pchen66/panolens.js/blob/master/build/panolens.min.js
+  - threejs読み込み：https://threejs.org/
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
