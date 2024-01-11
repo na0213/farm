@@ -1,0 +1,22 @@
+body {
+    margin: 10px;
+}
+
+.main-container {
+    display: flex;
+    height: 70vh;
+    width: 100%;
+    align-items: center;
+}
+
+.main-container .image-container {
+    flex: 1;
+    background: gray;
+    height: 100%;
+    ;
+}
+
+#container {
+    width: 100%;
+    height: 70vh;
+}
